@@ -24,3 +24,22 @@
     - [Higher Than 75 Marks](Basic%20Select/Higher%20Than%2075%20Marks.sql)
     - [Employee Names](Basic%20Select/Employee%20Names.sql)
     - [Employee Salaries](Basic%20Select/Employee%20Salaries.sql)
+
+- Advanced Select
+    - [Type of Triangle](Advanced%20Select/Type%20of%20Triangle.sql)
+
+- Aggregation
+    - [Revising Aggregations - The Count Function](Aggregation/The%20Count%20Function.sql)
+    - [Revising Aggregations - The Sum Function](Aggregation/The%20Sum%20Function.sql)
+    - [Revising Aggregations - Averages](Aggregation/Averages.sql)
+    - [Average Population](Aggregation/Average%20Population.sql)
+    - [Japan Population](Aggregation/Japan%20Population.sql)
+    - [Population Density Difference](Aggregation/Population%20Density%20Difference.sql)
+    - [The Blunder](Aggregation/The%20Blunder.sql)
+    - [Top Earners](Aggregation/Top%20Earners.sql)
+    - [Weather Observation Station 2](Aggregation/Weather%20Observation%20Station%202.sql)
+    - [Weather Observation Station 13](Aggregation/Weather%20Observation%20Station%2013.sql)
+    - [Weather Observation Station 14](Aggregation/Weather%20Observation%20Station%2014.sql)
+    - [Weather Observation Station 15](Aggregation/Weather%20Observation%20Station%2015.sql)
+    - [Weather Observation Station 16](Aggregation/Weather%20Observation%20Station%2016.sql)
+    - [Weather Observation Station 17](Aggregation/Weather%20Observation%20Station%2017.sql)

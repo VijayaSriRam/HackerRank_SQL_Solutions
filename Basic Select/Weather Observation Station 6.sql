@@ -26,5 +26,6 @@ FROM STATION
 WHERE REGEXP_LIKE(CITY, '^[aeiou]', 'i');
 
 '''
+Key Learning:
 REGEXP is a keyword used in SQL queries to match a string with a regular expression pattern. It is case sensitive.
 '''
