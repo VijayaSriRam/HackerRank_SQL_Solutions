@@ -27,6 +27,7 @@
 
 - Advanced Select
     - [Type of Triangle](Advanced%20Select/Type%20of%20Triangle.sql)
+    - [The PADS](Advanced%20Select/The%20Pads.sql)
 
 - Aggregation
     - [Revising Aggregations - The Count Function](Aggregation/The%20Count%20Function.sql)
@@ -43,6 +44,8 @@
     - [Weather Observation Station 15](Aggregation/Weather%20Observation%20Station%2015.sql)
     - [Weather Observation Station 16](Aggregation/Weather%20Observation%20Station%2016.sql)
     - [Weather Observation Station 17](Aggregation/Weather%20Observation%20Station%2017.sql)
+    - [Weather Observation Station 18](Aggregation/Weather%20Observation%20Station%2018.sql)
+    - [Weather Observation Station 19](Aggregation/Weather%20Observation%20Station%2019.sql)
 
 - Basic Join
     - [Population Census](Basic%20Join/Population%20Census.sql)
