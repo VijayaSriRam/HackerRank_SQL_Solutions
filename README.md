@@ -43,3 +43,8 @@
     - [Weather Observation Station 15](Aggregation/Weather%20Observation%20Station%2015.sql)
     - [Weather Observation Station 16](Aggregation/Weather%20Observation%20Station%2016.sql)
     - [Weather Observation Station 17](Aggregation/Weather%20Observation%20Station%2017.sql)
+
+- Basic Join
+    - [Population Census](Basic%20Join/Population%20Census.sql)
+    - [African Cities](Basic%20Join/African%20Cities.sql)
+    - [Average Population of Each Continent](Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
