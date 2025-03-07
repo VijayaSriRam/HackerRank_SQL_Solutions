@@ -14,6 +14,7 @@
     - [Weather Observation Station 1](Basic%20Select/Weather%20Observation%20Station%201.sql)
     - [Weather Observation Station 3](Basic%20Select/Weather%20Observation%20Station%203.sql)
     - [Weather Observation Station 4](Basic%20Select/Weather%20Observation%20Station%204.sql)
+    - [Weather Observation Station 5](Basic%20Select/Weather%20Observation%20Station%205.sql)
     - [Weather Observation Station 6](Basic%20Select/Weather%20Observation%20Station%206.sql)
     - [Weather Observation Station 7](Basic%20Select/Weather%20Observation%20Station%207.sql)
     - [Weather Observation Station 8](Basic%20Select/Weather%20Observation%20Station%208.sql)
@@ -28,6 +29,8 @@
 - Advanced Select
     - [Type of Triangle](Advanced%20Select/Type%20of%20Triangle.sql)
     - [The PADS](Advanced%20Select/The%20Pads.sql)
+    - [Binary Tree Nodes](Advanced%20Select/Binary%20Tree%20Nodes.sql)
+    - [New Companies](Advanced%20Select/New%20Companies.sql)
 
 - Aggregation
     - [Revising Aggregations - The Count Function](Aggregation/The%20Count%20Function.sql)
@@ -46,8 +49,14 @@
     - [Weather Observation Station 17](Aggregation/Weather%20Observation%20Station%2017.sql)
     - [Weather Observation Station 18](Aggregation/Weather%20Observation%20Station%2018.sql)
     - [Weather Observation Station 19](Aggregation/Weather%20Observation%20Station%2019.sql)
+    - [Weather Observation Station 20](Aggregation/Weather%20Observation%20Station%2020.sql)
 
 - Basic Join
     - [Population Census](Basic%20Join/Population%20Census.sql)
     - [African Cities](Basic%20Join/African%20Cities.sql)
     - [Average Population of Each Continent](Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+    - [Ollivander's Inventory](Basic%20Join/Ollivander's%20Inventory.sql)
+    - [Challenges](Basic%20Join/Challenges.sql)
+    - [The Report](Basic%20Join/The%20Report.sql)
+    - [Top Competitors](Basic%20Join/Top%20Competitors.sql)
+    - [Contest Leaderboard](Basic%20Join/Contest%20Leaderboard.sql)
