@@ -1,6 +1,6 @@
 # HackerRank_SQL_Solutions
 
-- My personal version of solutions for the HackerRank Python Domain.
+- My personal version of solutions for the HackerRank SQL Domain.
 
 <hr>
 
