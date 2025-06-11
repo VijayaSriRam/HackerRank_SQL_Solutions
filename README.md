@@ -1,7 +1,7 @@
 # HackerRank_SQL_Solutions
 
 <p align="center">
-  <img src="image/Gold_Badge.jpeg" alt="HackerRank SQL Gold Badge" width="400">
+  <img src="image/Gold_Badge.jpeg" alt="HackerRank SQL Gold Badge" width="600">
 </p>
 
 - My personal version of solutions for the HackerRank SQL Domain.
